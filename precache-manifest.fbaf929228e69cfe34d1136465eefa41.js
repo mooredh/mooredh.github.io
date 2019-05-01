@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/static/media/Sansation-LightItalic.15aa3af8.ttf"
   },
   {
-    "revision": "fcde8440e9ff26a083dc69a799754ae9",
+    "revision": "fd2f2c57f4c5dc84aafe6c69b2a72b64",
     "url": "/index.html"
   }
 ];
